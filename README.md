@@ -32,3 +32,8 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+## Author
+- Author: micsno
+- Email: micsno@pm.me
+- Website: https://www.kouvala.tech
